@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @joda01
-- 👀 I’m interested in Computer Science, Renewable Energies and Bioinformatics
-- 🌱 I’m currently learning using Pytorch
-
 
 <!---
 - 📫 How to reach me ...
